@@ -1,0 +1,1 @@
+tailwindcss-windows-x64.exe --input tailwind.css --output public_html/style.css
